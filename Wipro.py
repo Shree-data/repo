@@ -10,7 +10,7 @@
 # In[2]:
 
 
-from nsepy import get_history
+#from nsepy import get_history
 from datetime import date
 import pandas as pd
 
