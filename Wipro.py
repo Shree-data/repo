@@ -18,9 +18,6 @@ import pandas as pd
 # In[3]:
 
 
-start_date_W = date(2012, 10, 1)
-end_date_W = date(2022,10,15)
-
 Wipro = pd.read_csv('F:\\Project\\Wipro.csv')
 print(Wipro)
 
